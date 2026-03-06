@@ -8,4 +8,4 @@ This repository contains my personal portfolio website built using HTML and CSS.
 - Skills and Certifications
 
 ## Live Website
-https://sravan-cheekati-portfolio.github.io
+https://sravan-cheekati.github.io
